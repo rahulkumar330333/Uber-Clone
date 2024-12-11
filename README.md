@@ -13,7 +13,7 @@
 7. [Assets](#assets)
 8. [More](#more)
 
-## 🚨 Tutorial
+## Tutorial
 ## <a name="introduction">Introduction</a>
 
 Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
